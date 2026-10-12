@@ -1,1 +1,3 @@
+= Zweites Repository
 
+Dies ist Inhalt aus dem zweiten Git-Repository.
